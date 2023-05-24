@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently Studying and learning languages programming.<br>I'm looking to collaborate and learn with other people.<br>I'm currently learnig Django.<br>I hope to be part of a team working.<br>
+I'm currently Studying and learning languages programming.<br>I'm looking to collaborate and learn with other people.<br>I'm currently learning Django.<br>I hope to be part of a team working.<br>
 
 
 ## 🌐 Socials:
